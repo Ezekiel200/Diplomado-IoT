@@ -1,3 +1,3 @@
 # Diplomado-IoT
 commit
-commit desde el escritorio
+commit desde el escritorio y archivo de texto
